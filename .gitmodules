@@ -4,3 +4,6 @@
 [submodule "Tic-Tac-Toe"]
 	path = Tic-Tac-Toe
 	url = https://github.com/CJ445/Tic-Tac-Toe.git
+[submodule "face-recognition"]
+	path = face-recognition
+	url = https://github.com/CJ445/face-recognition.git
